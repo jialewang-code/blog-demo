@@ -1,15 +1,20 @@
 # Node 综合 Web 案例
 
+a node project to blog
+
 ## 依赖库及中间件
 
-`node` 后台技术
-`express` 服务器框架
-`mongodb` 非关系型数据库
-`mongoose` 数据库操作插件
-`art-template` 模板引擎
-`body-parser` post 请求中间件
-`express-session` session 中间件
-`blueimp-md5` 加密技术中间件
+```
+node              后台技术
+express           服务器框架
+mongodb           非关系型数据库
+mongoose          数据库操作插件
+art-template      模板引擎
+body-parser       post 请求中间件
+express-session   session 中间件
+blueimp-md5       加密技术中间件
+
+```
 
 ## 目录结构
 
